@@ -1,5 +1,5 @@
-# Loan_Prediction
-Aim:
+# Loan_Prediction using Supervised Machine Learning Algorithms
+Problem Statement:
 
 Our aim from the project is to make use of pandas, matplotlib, & seaborn libraries from python to extract insights from the data and xgboost, & scikit-learn libraries for machine learning.
 
